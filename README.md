@@ -4,6 +4,8 @@
 
 Basic tutorial on how to use Jupyter notebooks for Astrophysics/Cosmology.
 
+## Get Started
+
 * [Read the tutorial notebook on GitHub](https://github.com/fjaviersanchez/JupyterTutorial/blob/master/TutorialJupyter.ipynb)
 
 * Step through the tutorial notebook at [mybinder.org](http://mybinder.org/status/fjaviersanchez/jupytertutorial): [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/fjaviersanchez/jupytertutorial)
@@ -14,3 +16,21 @@ Basic tutorial on how to use Jupyter notebooks for Astrophysics/Cosmology.
   * Then: `cd JupyterTutorial ; jupyter notebook &`
   * The notebook should open in a nearby browser window: click on `TutorialJupyter.ipynb` to launch the notebook.
 
+
+## Requirements
+
+You'll need to install all the packages listed in `[requirements.txt](https://github.com/fjaviersanchez/JupyterTutorial/blob/master/requirements.txt)`:
+```bash
+pip install -r requirements.txt
+```
+These are:
+```
+seaborn
+randomfield
+bokeh
+astropy
+speclite
+sklearn
+healpy
+```
+All of which are very useful!
