@@ -5,10 +5,9 @@ dependencies:
   - matplotlib
   - bokeh
   - basemap
-  - seaborn
-  - sklearn
+  - seaborn 
   - astropy
   - pip:
       - randomfield
       - speclite
-        
+      - sklearn  
