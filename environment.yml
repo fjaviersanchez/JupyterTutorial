@@ -1,12 +1,9 @@
 name: environment-jupyter-notebook-tutorial
 
 dependencies:
-  - numpy
-  - matplotlib
   - bokeh
   - basemap
   - seaborn 
-  - astropy
   - pip:
       - randomfield
       - speclite
