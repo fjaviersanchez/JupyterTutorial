@@ -1,4 +1,0 @@
-bokeh
-randomfield
-seaborn
-speclite

@@ -1,0 +1,14 @@
+name: environment-jupyter-notebook-tutorial
+
+dependencies:
+  - numpy
+  - matplotlib
+  - bokeh
+  - basemap
+  - seaborn
+  - sklearn
+  - astropy
+  - pip:
+      - randomfield
+      - speclite
+        
