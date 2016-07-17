@@ -28,9 +28,7 @@ These are:
 seaborn
 randomfield
 bokeh
-astropy
 speclite
 sklearn
-healpy
 ```
-All of which are very useful!
+All of which are very useful! -- The tutorial also depends on astropy but this is included in anaconda. Also, it is optional but encouraged to install ```healpy```
