@@ -6,16 +6,22 @@ Basic tutorial on how to use Jupyter notebooks for Astrophysics/Cosmology.
 
 ## Get Started
 
-* [Read the tutorial notebook on GitHub](https://github.com/fjaviersanchez/JupyterTutorial/blob/master/TutorialJupyter.ipynb)
+Chose one of the following methods to access the tutorial:
+
+* [View the tutorial notebook on GitHub.](https://github.com/fjaviersanchez/JupyterTutorial/blob/master/TutorialJupyter.ipynb) This only requires a browser but does not allow you to edit and run code.
+
+* Download the necessary files from [https://goo.gl/3GYFTQ](https://goo.gl/3GYFTQ) then expand the archive (zip or tar file):
+  * `tar -zxf v0.1.tar.gz` or `unzip v0.1.zip`
+  * `cd JupyterTutorial ; jupyter notebook &`
+  * The notebook should open in a nearby browser window: click on `TutorialJupyter.ipynb` to launch the notebook.
+
+* Clone the repository from github (requires that you have `git` installed):
+  * `git clone https://github.com/fjaviersanchez/JupyterTutorial.git`
+  * `cd JupyterTutorial ; jupyter notebook &`
+  * The notebook should open in a nearby browser window: click on `TutorialJupyter.ipynb` to launch the notebook.
 
 * Step through the tutorial notebook at [mybinder.org](http://mybinder.org/status/drphilmarshall/jupytertutorial): [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/drphilmarshall/jupytertutorial)
   * Note that anyone can rebuild the `binder` instance of the notebook - just go to [http://mybinder.org/status/drphilmarshall/jupytertutorial](http://mybinder.org/status/drphilmarshall/jupytertutorial) and hit relaunch, or go to [http://mybinder.org](http://mybinder.org) and re-enter the repo URL.
-
-* Clone the repo and try it at home:
-  * From the command line: `git clone https://github.com/fjaviersanchez/JupyterTutorial.git`
-  * Then: `cd JupyterTutorial ; jupyter notebook &`
-  * The notebook should open in a nearby browser window: click on `TutorialJupyter.ipynb` to launch the notebook.
-
 
 ## Requirements
 
