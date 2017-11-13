@@ -1,7 +1,0 @@
-dependencies:
- - seaborn
- - randomfield
- - bokeh
- - astropy
- - speclite
- - sklearn
