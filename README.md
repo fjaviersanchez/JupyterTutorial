@@ -20,9 +20,8 @@ Chose one of the following methods to access the tutorial:
   * `cd JupyterTutorial ; jupyter notebook &`
   * The notebook should open in a nearby browser window: click on `TutorialJupyter.ipynb` to launch the notebook.
 
-* Step through the tutorial notebook at [mybinder.org](http://mybinder.org/status/drphilmarshall/jupytertutorial): [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/drphilmarshall/jupytertutorial)
-  * Note that anyone can rebuild the `binder` instance of the notebook - just go to [http://mybinder.org/status/drphilmarshall/jupytertutorial](http://mybinder.org/status/drphilmarshall/jupytertutorial) and hit relaunch, or go to [http://mybinder.org](http://mybinder.org) and re-enter the repo URL.
-
+* Step through the tutorial notebook at [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fjaviersanchez/jupytertutorial/master)
+ 
 ## Requirements
 
 You'll need to install all the packages listed in `[requirements.txt](https://github.com/fjaviersanchez/JupyterTutorial/blob/master/requirements.txt)`:
