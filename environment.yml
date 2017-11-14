@@ -7,7 +7,7 @@ dependencies:
   - astropy
   - matplotlib
   - bokeh
-  - sklearn
+  - scikit-learn
   - seaborn
   - pip:
     - speclite
